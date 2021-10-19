@@ -10,4 +10,4 @@ It is import to analysis a large number of experiment samples, because micro-sca
 
 [Article] A Microfluidic Platform for High-Throughput Screening of Small Mutant Libraries
 
-https://pubs.acs.org/doi/10.1021/acs.analchem.6b00317
+https://doi.org/10.1021/acs.analchem.6b00317
